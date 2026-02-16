@@ -8,7 +8,7 @@ This project is a movie search engine that uses Retrieval-Augmented Generation (
 4. The search results and suggestions are displayed to users in an interactive interface built with Streamlit.
 
 Here is a snapshot of the application:
-![alt text](image.png)
+![alt text](<Screenshot (1090).png>)
 
 
 ## Installation 
